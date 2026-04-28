@@ -1,11 +1,11 @@
-🎮 Quiz Game in C++
+Quiz Game in C++
 
-📌 Description
+Description
 
 This project is a simple console-based Quiz Game developed using C++.
 It asks multiple-choice questions to the user, takes input, and calculates the final score based on correct answers.
 
-🚀 Features
+Features
 
 - Multiple-choice questions
 - User input handling
@@ -13,7 +13,7 @@ It asks multiple-choice questions to the user, takes input, and calculates the f
 - Instant result display
 - Simple and interactive console interface
 
-🛠️ Technologies Used
+Technologies Used
 
 - Language: C++
 - Compiler: GCC / MinGW
