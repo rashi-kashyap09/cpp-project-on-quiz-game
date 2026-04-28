@@ -19,7 +19,7 @@ Technologies Used
 - Compiler: GCC / MinGW
 - IDE: VS Code
 
-▶️ How to Run
+ How to Run
 
 1. Open the project in VS Code
 2. Compile the program:
@@ -32,13 +32,13 @@ Technologies Used
 - "quiz.cpp" → Main source code
 - "README.md" → Project documentation
 
-📊 Output
+ Output
 
 - Displays questions one by one
 - User selects an option (A/B/C/D)
 - Final score is shown at the end
 
-🎯 Objective
+Objective
 
 The main objective of this project is to understand:
 
@@ -60,5 +60,4 @@ The main objective of this project is to understand:
 - Create GUI version
 
 👩‍💻 Author
-
-Your Name - RASHI KASHYAP
+RASHI KASHYAP
